@@ -79,7 +79,7 @@ $ git push
 * $ git tag - lists all tags
 * $ git checkout <tag> - checks out a commit with that tag
 * $ git tag -a <tag> -m "version 0.0.3" - adds new tags
-* $ git push --tags - pushes new tags
+* $ git push --tags - pushes new tags to the repo
 
 
 
