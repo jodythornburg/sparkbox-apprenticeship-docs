@@ -33,4 +33,26 @@ $ git push
 * $ git branch |name| - create new branch from current branch
 * $ git branch -r - remote branches
 
+## Git commands - from Try Git
+* $ git init - starts a local repo
+* $ git status - checks the status
+* $ git add <file>
+* $ git commit -m ‘message’
+* $ git add ‘*.txt’ - wildcard
+* $ git log - shows the history
+* $ git remote add origin https://github.com/try-git/try_git.git - adds a remote repo
+* $ git push -u origin master - pushes to the remote repo
+* $ git pull origin master - pulls changes from remote repo
+* $ git diff HEAD - looks at what is different from your last commit
+* $ git diff —staged - looks at the differences between staged files
+* $ git reset <file> - removes a file from staging
+* $ git checkout — <target> - undoes all changes since the relevant commit
+* $ git branch <branch_name> - creates a new branch with specified name
+* $ git branch - checks which branch you’re on and lists all branches
+* $ git checkout <branch-name> - switches to the specified branch
+* $ git rm <file> - removes file from disk and stages removal from repo
+* $ git merge <branch_name> - adds the changes on specified branch to whatever branch you have checked out
+* $ git branch -d <branch_name> - deletes specified branch
+* $ git push
+
 
