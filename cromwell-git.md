@@ -24,4 +24,8 @@ $ git push
 * you can move tags around, like branch names, and head
 * git is basically a bunch of tools to manage a graph (lines and circles)
 * $ git add / $ git commit - all it’s saying is, these changes, I care about, and I want you to care about them - give them an ID
-* 
+* **kaleidoscope** is a nice tool for showing diffs
+
+Git is all about organizing changes and lining them up on a graph
+
+
