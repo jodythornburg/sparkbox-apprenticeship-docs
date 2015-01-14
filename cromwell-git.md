@@ -28,7 +28,9 @@ $ git push
 * git is basically a bunch of tools to manage a graph (lines and circles)
 * $ git add / $ git commit - all it’s saying is, these changes, I care about, and I want you to care about them - give them an ID
 * **kaleidoscope** is a nice tool for showing diffs
-
-Git is all about organizing changes and lining them up on a graph
+* Git is all about organizing changes and lining them up on a graph
+* $ git branch - displays all the branches available
+* $ git branch |name| - create new branch from current branch
+* $ git branch -r - remote branches
 
 
