@@ -70,5 +70,17 @@ $ git push
 * $ git remote -v - show a verbose list of remotes
 * $ git branch <branch-nam> - create a new branch
 * $ git checkout <branch_name> - switch to that branch
+* $ git branch -r - show all remote branches
+* $ git remote show origin - shows all remote branches and whether they’re tracked, as well as local branches, and configurations
+* $ git push origin <branch_name> - link local branch to remote branch (tracking)
+* $ git push origin :<branch_name> - deletes a remote branch
+* $ git branch -D <branch_name> - lower case may not work
+* $ git remote prune origin - cleans up deleted remote branches
+* $ git tag - lists all tags
+* $ git checkout <tag> - checks out a commit with that tag
+* $ git tag -a <tag> -m "version 0.0.3" - adds new tags
+* $ git push --tags - pushes new tags
+
+
 
 
