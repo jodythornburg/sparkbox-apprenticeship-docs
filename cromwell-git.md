@@ -7,9 +7,11 @@
 * $ git clone
 $ git push
 * a file system within a file system: a bunch of commands to work within a file system
+
 ## GUIs
 * tower is a decent GUI for Git, as well as GitHub for Mac
 * but there is a disadvantage to using a GUI, because it hides complexities, and makes decisions for you
+
 ## Underneath
 * .git folder in each repo, which is a bunch of files that represents a graph
 * in git, this graph is acyclic (never a circle)
@@ -17,6 +19,7 @@ $ git push
 * first commit is init repo
 * use github as a collaborative master (the truth, the source)
 * the challenge happens when two people try to push different changes to the same master (rebase and apply changes so long as they aren’t conflicting)
+
 ## Workflow
 * stepping away from the master and making your own changes is called a branch
 * also has tags that point to shas (might represent critical steps)
