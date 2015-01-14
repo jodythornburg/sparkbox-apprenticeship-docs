@@ -56,3 +56,14 @@ $ git push
 * $ git push
 
 
+## Git commands - from Git Real
+* $ git help <command>
+* $ git config
+* $ git config —global user.name <name>
+* $ git commit -a - stages and commits all changes
+* $ git reset —soft HEAD^ - undo last commit, put changes into staging
+* $ git commit —amend -m ‘Message’ - change the last commit
+* $ git reset —hard HEAD^ - undo last commit and all changes
+* $ git reset —hard HEAD^^ - undo last 2 commits and all changes
+
+
