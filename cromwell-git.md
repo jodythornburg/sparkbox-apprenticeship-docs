@@ -80,6 +80,12 @@ $ git push
 * $ git checkout <tag> - checks out a commit with that tag
 * $ git tag -a <tag> -m "version 0.0.3" - adds new tags
 * $ git push --tags - pushes new tags to the repo
+* $ git fetch - goes to github and pulls down changes but doesn’t merge them
+* $ git rebase 
+** move all changes to master which are not in origin/master into a temporary area
+** run all origin/master commits
+** run all commits in the temporary area one at a time
+* 
 
 
 
