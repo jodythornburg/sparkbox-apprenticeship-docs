@@ -30,7 +30,7 @@ $ git push
 * **kaleidoscope** is a nice tool for showing diffs
 * Git is all about organizing changes and lining them up on a graph
 * $ git branch - displays all the branches available
-* $ git branch |name| - create new branch from current branch
+* $ git branch <name> - create new branch from current branch
 * $ git branch -r - remote branches
 
 ## Git commands - from Try Git
