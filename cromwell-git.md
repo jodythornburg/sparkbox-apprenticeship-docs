@@ -65,5 +65,10 @@ $ git push
 * $ git commit —amend -m ‘Message’ - change the last commit
 * $ git reset —hard HEAD^ - undo last commit and all changes
 * $ git reset —hard HEAD^^ - undo last 2 commits and all changes
+* $ git clone <URL> <new_name>
+* $ git checkout -b <branch_name> - shortcut for creating a new branch
+* $ git remote -v - show a verbose list of remotes
+* $ git branch <branch-nam> - create a new branch
+* $ git checkout <branch_name> - switch to that branch
 
 
