@@ -85,7 +85,8 @@ $ git push
 ** move all changes to master which are not in origin/master into a temporary area
 ** run all origin/master commits
 ** run all commits in the temporary area one at a time
-* 
+* $ git log --pretty=oneline - view all changes on one line
+
 
 
 
