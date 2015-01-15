@@ -1,0 +1,1 @@
+# Journal Entry - Week 1 (1-13 - 1-16)
