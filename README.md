@@ -13,3 +13,4 @@ This is a place to house my goals document, all my notes, my journal entries, an
 
 ## External Resources
 * [Syllabus](https://github.com/sparkbox/apprenticeships/blob/master/index.md)
+* [How To: Git](https://github.com/sparkbox/how_to/blob/d7ea7da5673a6e9f352de4d8612097a340aa6952/style/git/README.md)
