@@ -1,7 +1,7 @@
 # Sparkbox Apprenticeship Docs
 This is a place to house my goals document, all my notes, my journal entries, and other materials from my apprenticeship at Sparkbox.
 
-![Cookie](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/assets/cookie.gif “Cookie”)
+![Cookie](http://33.media.tumblr.com/37e95b906cfa37b4b9971e3ed422f413/tumblr_mypz84XK191rlntwpo1_r1_500.gif)
 
 ## Table of Contents
 1. [Goals](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/goals/apprenticeship-goals.md)
