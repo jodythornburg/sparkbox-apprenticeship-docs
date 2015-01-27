@@ -9,6 +9,7 @@ This is a place to house my goals document, all my notes, my journal entries, an
 	* [Git](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/notes/git.md)
 3. [Journal](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/tree/master/journal)
 	* [Week 1](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/journal/journal-entry-week-1.md)
+	* [Week 2](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/journal/journal-entry-week-2.md)
 4. [Materials](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/tree/master/materials)
 	*	[Git Real 1](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/materials/git-real-slides.pdf)
 	*	[Git Real 2](https://github.com/danrosenthal/sparkbox-apprenticeship-docs/blob/master/materials/git-real-2-slides.pdf)
