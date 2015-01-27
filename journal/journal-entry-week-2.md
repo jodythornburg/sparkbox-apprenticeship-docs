@@ -1,5 +1,5 @@
 # Journal Entry - Week 2 (1-19 - 1-23)
-Alright, the second week of my apprenticeship at Sparkbox is behind me, and I already feel like I’m learning a lot. But the more I learn, the more I realize how far I still have to go. During week 2 I dug deeper into the command line, and GIT, while getting my feet wet with the Ruby language. I also finished readying the 37 Signals book "Getting Real," and plan to frame this journal entry within the context of that book. So, here’s how I got real in my second week as a Sparkbox apprentice.
+Alright, the second week of my apprenticeship at Sparkbox is behind me, and I already feel like I’m learning a lot. But the more I learn, the more I realize how far I still have to go. During week 2 I dug deeper into the command line, and GIT, while getting my feet wet with the Ruby language. I also finished reading the 37 Signals book "Getting Real," and plan to frame this journal entry within the context of that book. So, here’s how I got real in my second week as a Sparkbox apprentice.
 
 ## Getting Real
 My most important takeaway from reading this book was to stop talking about doing things, and actually do them. I think this is an issue that plagues lots of creative people: plenty of great ideas, but way too little execution. I’ve spent a lot of time talking about things I want to make:
@@ -26,6 +26,9 @@ One of the goals I made for myself last week (and really an ongoing goal) was to
 * Set up a way to add work separate from the blog
 * Turn the keys over to her
 * Make everything responsive and do some testing
+
+### How this relates to getting real
+This simple, straightforward tech let me stop thinking about ideas, and actually get to the important part: writing code. The barrier to entry for this tech is low, but the opportunities for expansion are sky high. While the implementations I have for them are minimalist now, they are real. Actual code, on an actual site, doing the actual things I want them to do. That’s infinitely more valuable than some highly-complex sites that I never actually see through.
 
 ## Learning Ruby
 In this last week I’ve taken my first dive into the Ruby programming language. While it’s still really early in my training, I feel like things are starting to click for me after finishing Ruby Bits 1 on [Codeschool][6] and completing the [Ruby Koans][7]. I still have a lot to do, and some things haven’t quite coalesced yet, but I feel like once I actually try to build something in Ruby, it will start to make a lot more sense.
