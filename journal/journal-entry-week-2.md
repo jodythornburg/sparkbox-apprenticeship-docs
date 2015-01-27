@@ -49,13 +49,13 @@ On a more personal note, I want to:
 
 I think that about covers it for this week. On to week 3.
 
-[1](https://gettingreal.37signals.com/)
-[2](https://pages.github.com/)
-[3](http://jekyllrb.com/)
-[4](http://danrosenthal.github.io/)
-[5](http://chelseabaker.me/)
-[6](https://www.codeschool.com/users/1204438)
-[7](https://github.com/danrosenthal/ruby-koans)
+[1]: https://gettingreal.37signals.com/
+[2]: https://pages.github.com/
+[3]: http://jekyllrb.com/
+[4]: http://danrosenthal.github.io/
+[5]: http://chelseabaker.me/
+[6]: https://www.codeschool.com/users/1204438
+[7]: https://github.com/danrosenthal/ruby-koans
 
 
 
