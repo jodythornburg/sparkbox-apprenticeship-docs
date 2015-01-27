@@ -45,8 +45,17 @@ Most of my goals for next week will revolve around gaining some deeper comprehen
 On a more personal note, I want to:
 * Wrap things up on my personal site
 * Get Chelsea’s personal site finished
+* Come up with something to present at the next Lunch ’n Learn (maybe some of my takeaways with using Prose.io and Github Pages with Jekyll)
 
 I think that about covers it for this week. On to week 3.
+
+[1](https://gettingreal.37signals.com/)
+[2](https://pages.github.com/)
+[3](http://jekyllrb.com/)
+[4](http://danrosenthal.github.io/)
+[5](http://chelseabaker.me/)
+[6](https://www.codeschool.com/users/1204438)
+[7](https://github.com/danrosenthal/ruby-koans)
 
 
 
