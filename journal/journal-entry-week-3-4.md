@@ -1,0 +1,1 @@
+# Journal Entry - Week 3 & 4 (1-26 - 2-6)
