@@ -20,6 +20,9 @@
 
 ## Ruby
 - [ ] Complete at least two more code katas OO using Ruby
+- [ ] Work using Treehouse to gain deeper understanding
+- [ ] Learn more about design patterns
+- [ ] Build out Yahtzee Game
 
 ## JavaScript
 - [ ] Work on one or two of the code katas I’ve already done using JS
