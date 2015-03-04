@@ -38,7 +38,7 @@
 - [ ] Build out Yahtzee Game
 
 ## JavaScript
-- [ ] Work on one or two of the code katas I’ve already done using JS
+- [ ] Complete code katas OO using JS
 	- [ ] Yahtzee
 	- [ ] FizzBuzz
 	- [ ] Roman Numerals
