@@ -1,7 +1,7 @@
 
 # March Goals and Todos
 ## Development Environment
-- [x] Evaluate and research new tools
+- [x] [Evaluate and research new tools] [1]
 	- [x] Evaluate Vim
 	- [x] Evaluate Sublime
 	- [x] Evaluate iTerm
@@ -20,6 +20,8 @@
 	- [ ] Automation - find ways around repetitive tasks
 	- [ ] Dotfiles - do more work on dot files setup and track them with Git
 - [ ] Learn some Bash scripting basics
+
+[1]: http://google.com
 
 ## Books
 - [ ] Reread the beginning of POOPR
