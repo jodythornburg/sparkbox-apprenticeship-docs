@@ -35,9 +35,5 @@ Now that you have your browser set up and your text editor configured, it’s ti
 
 And since you’re going to be spending a lot of time in the command line, you should probably get comfortable and [make yourself a little more at home there](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192). Once you spend some time in the command, you’re going to start wanting to customize some things — and that’s where [dotfiles](https://dotfiles.github.io/) come in. Think of them as the settings for your shell and everything you do in the terminal. Whether you want to customize your prompt, add a color scheme, or create aliases for commonly-used commands, it all happens in your dotfiles. Once you have them set up, move them into a dotfiles directory, symlink them, and track them with Git.
 
-
-
-* Conclusion
-	* This is not an exhaustive list
-	* Tell us about your development environment
-	* 
+## That’s All For Now
+While this is far from an exhaustive list, and is certainly opinionated at best — you may prefer VIM over Sublime, Terminal over iTerm, Subversion over Git — it’s helped me make some real progress in becoming a better web developer. No matter your preference, what’s important is that your development environment helps you focus on writing code, and not fighting against technology. Find solutions that solve problems, not create new ones. Making those changes to your environment and workflow will open you up to new opportunities, and the introduction of new technology. When your development environment is comfortable, change and growth comes naturally.
