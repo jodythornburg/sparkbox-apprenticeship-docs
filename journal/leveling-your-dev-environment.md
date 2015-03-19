@@ -1,5 +1,5 @@
 # Leveling Up Your Front-End Development Environment
-***NB:** This post is intended for those folks just getting started writing front-end code. Either you’re a formal student at a college or university, you’re an [apprentice](http://apprentices.seesparkbox.com/) (like me), or you’re learning  on your own from any of the [great](https://www.codeschool.com/) [resources](http://teamtreehouse.com/) [available](http://www.codecademy.com/) online.* Either way, you’re a beginner, and that’s great.*
+***NB**: This post is intended for those folks just getting started writing front-end code. Either you’re a formal student at a college or university, you’re an [apprentice](http://apprentices.seesparkbox.com/) (like me), or you’re learning  on your own from any of the [great](https://www.codeschool.com/) [resources](http://teamtreehouse.com/) [available](http://www.codecademy.com/) online.* Either way, you’re a beginner, and that’s great*.
 
 ## Welcome
 So you’ve decided to take the next step in your internet-making education, congratulations. Give yourself a well-deserved pat on the back. As a fellow student of the internet, I know what it’s like to [carve out an education in all things internet](https://the-pastry-box-project.net/ben-callahan/2015-january-22), and what a challenge it can be. The road ahead is going to be tough, but seriously rewarding.
